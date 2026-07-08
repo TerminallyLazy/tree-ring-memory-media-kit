@@ -1,0 +1,24 @@
+name: Validate media kit
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate expected files
+        run: |
+          set -euo pipefail
+          test -f README.md
+          test -f press.md
+          test -f social-posts.md
+          test -f creator-brief.md
+          test -f docs/index.html
+          test -f assets/open-graph-1200x675.png
+          test -f assets/social-square-logo-1080x1080.png
+          test -f assets/youtube-thumbnail-1920x1080.png
+          grep -R "Tree Ring Memory" README.md press.md social-posts.md creator-brief.md docs/index.html
+          grep -R "TerminallyLazy/Tree-Ring-Memory" README.md press.md social-posts.md creator-brief.md docs/index.html
