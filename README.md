@@ -6,7 +6,7 @@ This repository is the clean public kit for journalists, newsletter editors, dir
 
 - Website: <https://terminallylazy.github.io/Tree-Ring-Memory/>
 - Source repo: <https://github.com/TerminallyLazy/Tree-Ring-Memory>
-- Release: <https://github.com/TerminallyLazy/Tree-Ring-Memory/releases/tag/v0.11.0>
+- Release: <https://github.com/TerminallyLazy/Tree-Ring-Memory/releases/tag/v0.13.0>
 - Launch feedback: <https://github.com/TerminallyLazy/Tree-Ring-Memory/issues/26>
 - Launch discussion: <https://github.com/TerminallyLazy/Tree-Ring-Memory/discussions/27>
 - Agent skill listing: <https://agent-skills.md/skills/TerminallyLazy/tree-ring-memory-skill/tree-ring-memory>
