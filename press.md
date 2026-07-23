@@ -20,7 +20,7 @@ Agent memory often fails in one of two ways: it forgets useful lessons too quick
 
 - Website: <https://terminallylazy.github.io/Tree-Ring-Memory/>
 - GitHub: <https://github.com/TerminallyLazy/Tree-Ring-Memory>
-- Release: <https://github.com/TerminallyLazy/Tree-Ring-Memory/releases/tag/v0.11.0>
+- Release: <https://github.com/TerminallyLazy/Tree-Ring-Memory/releases/tag/v0.13.0>
 - Feedback thread: <https://github.com/TerminallyLazy/Tree-Ring-Memory/issues/26>
 - Discussion: <https://github.com/TerminallyLazy/Tree-Ring-Memory/discussions/27>
 - Agent skill listing: <https://agent-skills.md/skills/TerminallyLazy/tree-ring-memory-skill/tree-ring-memory>
